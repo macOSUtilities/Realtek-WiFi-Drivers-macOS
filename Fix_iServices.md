@@ -1,6 +1,6 @@
-### Video Tutorial 1 by @thedeadfish59
-[![Watch Video Tutorial](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/assets/6248794/4eccb0c9-d0cf-4d06-943e-4b8346155b82)](https://www.youtube.com/watch?v=xPyW-DwQha8)
-<br/>
+[![Watch the video](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/raw/refs/heads/master/content/FixiServices.png)](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/raw/refs/heads/master/content/video.mp4)
+</br>
+# Click the image to watch the video.
 Fix for iServices (Messages, FaceTime, and the App Store)
 1. Log in to your Apple Account using Ethernet (as before).
 2. Ensure your Ethernet cable is disconnected before applying the iServices fix.
@@ -13,6 +13,3 @@ Fix for iServices (Messages, FaceTime, and the App Store)
    - [WirelessAdapterCloverBigSur](https://github.com/chris1111/WirelessAdapterCloverBigSur)
 
 ------------------------------------------------------
-### Video Tutorial 1 by @chris1111
-
-[![Watch Video Tutorial](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/raw/refs/heads/master/content/FixiServices.png)](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/raw/refs/heads/master/content/video.mp4)
