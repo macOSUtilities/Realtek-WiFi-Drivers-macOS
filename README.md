@@ -1,16 +1,29 @@
-# Wireless USB Big Sur Adapter
+# Realtek Wi-Fi USB Drivers for macOS
 
-### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
+## macOS drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters.
 
-### Welcome to Wireless USB Big Sur Adapter
-### Support macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina Only! (DO NOT USE ON OTHER OS's)
-- There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
-### [Fix_Apple_Services- Messages / FaceTime](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/blob/master/Fix_Apple_Services.md)
-### macOS Sequoia 15! You have to ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper) Like this way.
-### Download latest Release V18 [➤ Wireless USB Big Sur Adapter-V18](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/releases/tag/V18)
+### Download latest version from [Releases](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/releases/)
+### Supported OSes:
+macOS 15 (Sequoia)
+<br/>
+macOS 14 (Sonoma)
+<br/>
+macOS 13 (Ventura)
+<br/>
+macOS 12 (Monterey)
+<br/>
+macOS 11 (Big Sur)
+<br/>
+macOS 10.15 (Catalina)
+<br/>
+DO NOT USE ON OTHER VERSIONS!
 
-- For Hackintosh with OpenCore its better to using this ➢[Wireless-USB-OC-Big-Sur-Adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) 
-- For Clover ➢[WirelessAdapterCloverBigSur](https://github.com/chris1111/WirelessAdapterCloverBigSur) 
+### On macOS Sequoia, you have to [Disable Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper)
+
+#### [Fix iServices (Messages/FaceTime)](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/blob/master/Fix_Apple_Services.md)
+
+- For Hackintoshes with OpenCore use [this](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) 
+- For Hackintoshes with Clover use [this](https://github.com/chris1111/WirelessAdapterCloverBigSur) 
 
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any release SIP Security must be disable! (Fully disable) 
