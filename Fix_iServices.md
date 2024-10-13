@@ -15,4 +15,4 @@ Fix for iServices (Messages, FaceTime, and the App Store)
 ------------------------------------------------------
 ### Video Tutorial 1 by @chris1111
 
-[![Watch Video Tutorial](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/assets/6248794/4eccb0c9-d0cf-4d06-943e-4b8346155b82)](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/assets/6248794/b653fbe7-f3d0-4c88-b0f0-b85b4a37600f)
+[![Watch Video Tutorial](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/raw/refs/heads/master/content/FixiServices.png)](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/raw/refs/heads/master/content/video.mp4)
