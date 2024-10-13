@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <installer-script minSpecVersion="1.000000" authoringTool="com.apple.PackageMaker" authoringToolVersion="3.0.7" authoringToolBuild="203">
-    <title>Wireless USB Big Sur Adapter-V18</title>
+    <title>Realtek USB Driver Installer</title>
     <options customize="always" allow-external-scripts="no"/>
     <domains enable_anywhere="true"/>
     <background file="background" alignment="center" scaling="tofit"/>
@@ -14,7 +14,7 @@
         </line>
         <line choice="choice45"/>
     </choices-outline>
-    <choice id="choice41" title="Wireless USB Big Sur Adapter" description="Install ➔ /Library/Extensions RtWlanU1827.kext, RtWlanU.kext Install ➔ /Library/Applications Support /WLAN Install ➔ /Library/LaunchAgents /Wlan.Software.plist Install ➔ /Library/LaunchDaemons/Wlan.SoftwareDaemon.plist" start_selected="true" selected="!choices['choice45'].selected">
+    <choice id="choice41" title="Install drivers" description="Install ➔ /Library/Extensions RtWlanU1827.kext, RtWlanU.kext Install ➔ /Library/Applications Support /WLAN Install ➔ /Library/LaunchAgents /Wlan.Software.plist Install ➔ /Library/LaunchDaemons/Wlan.SoftwareDaemon.plist" start_selected="true" selected="!choices['choice45'].selected">
         <pkg-ref id="com.109Driver.wirelessUsbBigSurAdapter.statusbarapp.pkg"/>
         <pkg-ref id="com.109Driver.wirelessUsbBigSurAdapter.Agents.pkg"/>
         <pkg-ref id="com.109Driver.wirelessUsbBigSurAdapter.Daemon.pkg"/>
