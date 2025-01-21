@@ -30,16 +30,16 @@
 ## Changelog:
 <details>
   <summary>View all updates</summary>
-- **12 Oct 2024:** Revamped README
-- **12 Jul 2024:** Reduced package size and updated background.
-- **11 Jul 2024:** Updated StatusBarApp background.
-- **16 Jan 2024:** Listed supported adapters in ReadMe.
-- **02 Jul 2023:** Updated program background.
-- **15 Dec 2022:** Improved Helper tools.
-- **02 Nov 2022:** No longer requires Agents and Daemons.
-- **12 Jun 2022:** Added support for macOS Ventura 13.
-- **15 Sep 2021:** Adapted for macOS Big Sur 11.
-- **29 Nov 2020:** Introduced a blue Wi-Fi icon similar to Big Sur.
+- **12 Oct 2024:** Revamped README <br>
+- **12 Jul 2024:** Reduced package size and updated background. <br>
+- **11 Jul 2024:** Updated StatusBarApp background. 
+- **16 Jan 2024:** Listed supported adapters in README. <br>
+- **02 Jul 2023:** Updated program background. <br>
+- **15 Dec 2022:** Improved Helper tools. <br>
+- **02 Nov 2022:** No longer requires Agents and Daemons. <br>
+- **12 Jun 2022:** Added support for macOS Ventura 13.<br>
+- **15 Sep 2021:** Added support for macOS Big Sur 11. <br>
+- **29 Nov 2020:** Introduced a blue Wi-Fi icon, reminiscent of Big Sur's. 
 
 </details>
 
