@@ -12,8 +12,6 @@
 - macOS 11 (Big Sur)
 - macOS 10.15 (Catalina)
 
-**Note:** Do not use on other versions!
-
 ### Compatibility:
 - Only works on Intel-based Macs.
 - **Not compatible with Apple Silicon (M1, M2, M3, M4).**
@@ -30,17 +28,20 @@
 ## Changelog:
 <details>
   <summary>View all updates</summary>
-- **12 Oct 2024:** Revamped README <br>
-- **12 Jul 2024:** Reduced package size and updated background. <br>
-- **11 Jul 2024:** Updated StatusBarApp background. 
-- **16 Jan 2024:** Listed supported adapters in README. <br>
-- **02 Jul 2023:** Updated program background. <br>
-- **15 Dec 2022:** Improved Helper tools. <br>
-- **02 Nov 2022:** No longer requires Agents and Daemons. <br>
-- **12 Jun 2022:** Added support for macOS Ventura 13.<br>
-- **15 Sep 2021:** Added support for macOS Big Sur 11. <br>
-- **29 Nov 2020:** Introduced a blue Wi-Fi icon, reminiscent of Big Sur's. 
-
+  
+- **v3.1:** Fixed spelling/grammer errors, cleaned up background and other images <br>
+- **v3.0.2:** Updated README, created discussion <br>
+- **v3.0.1:** Revamped README <br>
+- **v3.0:** Reduced package size and updated background. <br>
+- **v2.6:** Updated StatusBarApp background. <br>
+- **v2.5.1:** Listed supported adapters in README. <br>
+- **v2.5:** Updated program background. <br>
+- **v2.4:** Improved Helper tools. <br>
+- **v2.3:** No longer requires Agents and Daemons. <br>
+- **v2.2:** Added support for macOS Ventura 13.<br>
+- **v2.1:** Added support for macOS Big Sur 11. <br>
+- **v2.0:** Introduced a blue Wi-Fi icon, reminiscent of Big Sur's.
+  
 </details>
 
 ## Supported Wi-Fi Adapters:
@@ -64,25 +65,26 @@
 - TP-Link Archer T2U Nano/Mini/AC600
 - TRENDnet TEW-808UBM, TEW-908UB
 
-[Report additional working adapters here](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/discussions).
+[Report additional working adapters here](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/discussions/1).
 
 </details>
 
 ## Instructions for configuring the Adapter:
-1. Select the **System Settings** from the Launchpad or the Apple icon menu.
+1. Select **System Settings** from the Launchpad or the Apple menu.
 2. Select **Network** from the side panel
 3. From **Other Services**, select **802.11ac WLAN Adapter** then **Details…**
-4. Configure any settings.
+4. Configure any settings, such as IP Address, DNS, etc.
 5. Click the **Ok** button. Enter your password if necessary.
 Settings configured.
 
 ## Wi-Fi Speed Tests:
-- Starting with macOS Monterey, you can run the command `networkquality` for speed tests.
-- You can also use [Speedtest](https://speedtest.net) or [Fast](https://fast.com/)
+- In macOS Monterey or newer, you can run the command `networkquality` for speed tests.
+- You can also use [Speedtest](https://speedtest.net) or [Fast](https://fast.com/).
 
 ## Disclaimer:
-These drivers (and their creator) are not responsible for any damage to your machine.
-
+These drivers (and their creator) are not responsible for any damage to your computer.
+I never knew this would be needed to say, but these drivers DO NOT work on iPhone/iPad.
+Credits for the original project go to chris1111
 ### Video Tutorials:
 - [How to Install on macOS Monterey](https://youtu.be/YqZAy8jntow)
 - [Fix if SIP is not disabled](https://youtu.be/lA1V6dmsq24)
