@@ -1,29 +1,22 @@
-# Realtek Wi-Fi USB Drivers for macOS
+# Realtek Wi-Fi Adapter Drivers for macOS
 
-## macOS drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters.
+## macOS drivers for Realtek 802.11n and 802.11ac Wi-Fi adapters.
 
-### [Download the latest version](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/releases/)
-
-### Supported macOS Versions:
-- macOS 15 (Sequoia)
-- macOS 14 (Sonoma)
-- macOS 13 (Ventura)
-- macOS 12 (Monterey)
-- macOS 11 (Big Sur)
-- macOS 10.15 (Catalina)
+### [Download the latest release](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/releases/)
+### Only supports macOS 10.15 (Catalina) and newer
 
 ### Compatibility:
 - Only works on Intel-based Macs.
 - **Not compatible with Apple Silicon (M1, M2, M3, M4).**
 
-### Special Instructions for macOS Versions:
+### Special Instructions:
 - For **macOS Sequoia**, [Disable Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper).
-- For **macOS Big Sur and newer**, you must disable SIP. Reboot into Recovery (Cmd+R while rebooting), open Terminal from the Utilities menu, and run `csrutil disable`.
+- For **macOS 11 (Big Sur) and newer**, you must disable SIP. Reboot into Recovery (Cmd+R while rebooting), open Terminal from the Utilities menu, and run `csrutil disable`.
 
 ### Additional Resources:
-- [Fixing iServices (Messages/FaceTime)](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/blob/master/Fix_iServices.md)
-- For Hackintoshes with **OpenCore**, use [this guide](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter).
-- For Hackintoshes with **Clover**, use [this guide](https://github.com/chris1111/WirelessAdapterCloverBigSur).
+- [Fixing iServices (Messages/FaceTime)](https://github.com/macOS/Realtek-WiFi-Drivers/blob/master/Fix_iServices.md)
+- For Hackintoshes with **OpenCore**, use [this version](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter).
+- For Hackintoshes with **Clover**, use [this version](https://github.com/chris1111/WirelessAdapterCloverBigSur).
 
 ## Changelog:
 <details>
@@ -65,7 +58,7 @@
 - TP-Link Archer T2U Nano/Mini/AC600
 - TRENDnet TEW-808UBM, TEW-908UB
 
-[Report additional working adapters here](https://github.com/kingkwahli/RTK_USB-WiFi_Drivers_macOS/discussions/1).
+[Report additional working adapters here](https://github.com/macOSUtilities/Realtek-WiFi-Drivers/discussions/1).
 
 </details>
 
