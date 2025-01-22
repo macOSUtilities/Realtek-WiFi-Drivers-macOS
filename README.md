@@ -21,7 +21,7 @@
 ## Changelog:
 <details>
   <summary>View all updates</summary>
-  
+- **v3.1.1:** Updated links to reflect new ownership, shorted macOS support list, cleaned up. <br>
 - **v3.1:** Fixed spelling/grammer errors, cleaned up background and other images <br>
 - **v3.0.2:** Updated README, created discussion <br>
 - **v3.0.1:** Revamped README <br>
@@ -43,20 +43,72 @@
 
 - Alfa AWUS036AC
 - Alfa AWUS036ACH
-- ASUS USB AC68, USB-N13, USB Nano-AC53
+- Archer T2U Plus (AC600)
+- Archer T2U NANO, MINI, AC600
+- Archer T3U
+- Archer T3U Plus
+- Archer T2U MINI V3
+- Archer T2U Plus
+- ArcherT4U V1, V2, V3
+- Archer T9UH V1, V2
+- ASUS USB AC68
+- ASUS USB-N13
+- ASUS USB Nano-AC53
 - BrosTrend FBA_AC3
-- COMFAST CF-811AC, CF-812AC, CF-WU810N
-- Cudy WU1300S, WU700, WU650
-- DLink DWA-121, DWA-131E, DWA-182, DWA-192
-- EDIMAX EW-7611UCB, EW-7722UTn V2, EW-7811Un (N150)
+- COMFAST CF-811AC
+- COMFAST CF-812AC
+- Comfast CF-758F
+- Comfast CF-WU810N
+- Cudy WU1300S
+- Cudy WU700
+- Cudy WU650
+- CXFTEOXK
+- DLink DWA-121 N150
+- DLink DWA-131 E
+- DLink DWA-171 C
+- DLink DWA-182 D
+- DLink DWA-192 A
+- EDIMAX EW-7611UCB
+- EDIMAX EW-7722UTn V2
+- EDIMAX_EW-7822ULC
+- EDIMAX EW-7612Uan V2
+- EDIMAX EW-7833UAC
+- EDIMAX N300
+- EDIMAX EW-7811Un (N150)
+- EDUP EP-AC1689
 - Fenvi AC1300 (RTL8812bu)
-- Linksys WUSB6300 V2, WUSB6400M
-- Netgear A6100, A6150, A7000
-- TP-Link TL-WN823Nv3, TL-WN725Nv3
-- TP-Link Archer T2U Plus (AC600)
-- TP-Link Archer T3U, T3U Plus
-- TP-Link Archer T2U Nano/Mini/AC600
-- TRENDnet TEW-808UBM, TEW-908UB
+- FILOWA USB WiFi-RTL8812BU
+- Foktech AC600 Nano
+- Jensen Eagle 100-AC
+- Kextech MINI USB RTL8192
+- Linksys WUSB6300 V2 
+- Linksys WUSB6400M
+- M-Tech UW-01 USB
+- Mercusys MW300UM
+- Netgear A6100
+- Netgear A6150
+- Netgear A7000
+- Netis WF2120 N Nano USB
+- Plexgear AC1200
+- Sitecom WLA7100
+- TechKey AC1200
+- TL-WN823Nv1/v2/v3
+- TL-WN725Nv3
+- TL-WN723Nv2/v3
+- TL-WN722Nv2/v3
+- TL-WN821Nv6
+- TL-WN822Nv4/v5
+- TENDA W311-MINI
+- Tenda U3 Mini
+- TENDA U12
+- TRENDnet N150 Micro
+- TRENDnet TEW-808UBM
+- TRENDnet TEW-908UB
+- UGreen CM448
+- YUNCLOUD Realtek (RTL8814AU)
+- ZAPO W58L (RTL881lAU)
+- Zyxel NWD6602
+- Zyxel NWD6605
 
 [Report additional working adapters here](https://github.com/macOSUtilities/Realtek-WiFi-Drivers/discussions/1).
 
