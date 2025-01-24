@@ -14,7 +14,7 @@
 - For **macOS 11 (Big Sur) and newer**, you must disable SIP. Reboot into Recovery (Cmd+R while rebooting), open Terminal from the Utilities menu, and run `csrutil disable`.
 
 ### Additional Resources:
-- [Fixing iServices (Messages/FaceTime)](https://github.com/macOS/Realtek-WiFi-Drivers/blob/master/Fix_iServices.md)
+- [Fixing iServices (Messages/FaceTime)](https://github.com/macOSUtilities/Realtek-WiFi-Drivers/blob/master/Fix_iServices.md)
 - For Hackintoshes with **OpenCore**, use [this version](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter).
 - For Hackintoshes with **Clover**, use [this version](https://github.com/chris1111/WirelessAdapterCloverBigSur).
 
